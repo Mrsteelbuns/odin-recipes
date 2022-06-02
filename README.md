@@ -1,2 +1,2 @@
 # odin-recipes
-First commit
+A recipe site made using basic html.
